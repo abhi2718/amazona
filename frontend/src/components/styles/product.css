@@ -1,0 +1,25 @@
+/* Image  */
+
+
+  .product-img{
+    width: 260px;
+    height:260px;
+  }
+.card{
+    border:0.1rem #c0c0c0 solid;
+    background-color:#f8f8f8;
+    margin: 1rem;
+   
+  }
+  
+  .card-body{
+    padding:15px ;
+  }
+  .product-name,.brand-name{
+    font-size:1.4rem ;
+  }
+  .rating span i{
+    color: gold;
+    margin-top: 0.2rem;
+    font-size: 1.4rem;
+  }

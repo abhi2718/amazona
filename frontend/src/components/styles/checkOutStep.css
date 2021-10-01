@@ -1,0 +1,12 @@
+.checkout-steps{
+    padding: 0.8rem ;
+}
+.checkout-steps div{
+    border-top:0.3rem #c0c0c0 solid ;
+    color: #c0c0c0 ;
+    font-weight: bold;
+}
+.checkout-steps .active{
+    border-top-color: #f08000;
+    color:#f08000 ;
+}

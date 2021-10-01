@@ -1,0 +1,16 @@
+.cartItem{
+    flex: 2 1 50rem;
+}
+.cartItem h2{
+   font-family: 'Courier New', Courier, monospace;
+    color: #203040;
+}
+.cartAction{
+    flex: 1 1 25rem;
+}
+.messageBox{
+    text-align: center;
+    background-color:whitesmoke;
+    padding:1rem 0;
+    border-radius:0.5rem ;
+}

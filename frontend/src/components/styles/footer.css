@@ -1,0 +1,11 @@
+.center{
+    justify-content: center;
+  }
+  
+    @media (max-width:320px){
+      .column{
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  

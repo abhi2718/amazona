@@ -1,0 +1,12 @@
+
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 0;
+    
+}
+.small{
+    width:5rem;
+}
