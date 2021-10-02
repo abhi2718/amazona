@@ -4,7 +4,7 @@ const Dashboard=(props)=>{
 
     return(
         <div>
-            <p>Welcome to DashBoard  Screen </p>
+            <p style={{textAlign:"center}}>Welcome to DashBoard  Screen,comming soon </p>
         </div>
     )
 }
